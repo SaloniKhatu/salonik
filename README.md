@@ -1,48 +1,66 @@
+<!-- HEADER -->
+<p align="center">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="600"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Saloni Khatu</h1>
-<h3 align="center">A passionate ML & NLP enthusiast | Software Engineer</h3>
+<h3 align="center">🚀 Data Science, ML and LLMs Enthusiast | Software Engineer | Data Scientist 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C3FF&width=435&lines=Machine+Learning+%7C+NLP+%7C+Software+Development;Data+Science+%7C+LLMs+%7C+Generative+AI;Building+Cool+Stuff+with+AI!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Machine+Learning+%7C+NLP+%7C+Software+Engineering;Data+Science+%7C+LLMs+%7C+Generative+AI;Building+Cool+Stuff+with+AI!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🏆 About Me
-- 🎓 **M.S. in Computer Science** @ UMass Amherst  
-- 🔭 Currently working on **LLMs & Generative AI**  
-- 🤖 **Interested in NLP, Interpretable ML, OCR, and Real-Time Data Analysis**  
-- 🌱 Exploring **Software Development & AI Research**  
-- 📫 Reach me at **[skhatu@umass.edu](mailto:skhatu@umass.edu)**  
+### 🎓 **Education** 🎓  
+📍 **University of Massachusetts Amherst** *(M.S. in Computer Science, GPA: 3.7/4.0)*  
+📍 **St. Francis Institute of Technology** *(B.E. in Computer Engineering, GPA: 3.8/4.0)*  
+
+🖥️ **Relevant Courses:** Machine Learning, NLP, Responsible AI, Data Science, Software Engineering  
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 **Tech Stack** 🚀  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,c,cpp,git,github,postgresql,docker,aws" />
-</p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=salonik&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salonik&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,cpp,html,css,js,sql,docker,aws,azure,mongodb,git,github" />
 </p>
 
 ---
 
-### 🌎 Let's Connect
+### 💼 **Work Experience** 💼  
+🟢 **Graduate Teaching Assistant @ UMass Amherst** *(Sept. 2024 – Present)*  
+🔹 Mentored 50+ students on **startup ideas, business models, and execution strategies**.  
+🔹 Evaluated assignments, provided feedback, and helped refine business strategies.  
+
+🟠 **Data Science Intern @ Nibodh Pvt. Ltd.** *(May 2022 – Jan. 2023)*  
+🔹 Built **predictive models (PCA, SVD, K-Means)** to improve academic KPI tracking by **90%**.  
+🔹 Developed **real-time dashboards in Tableau** for key performance indicators.  
+
+---
+
+### 🔥 **Projects** 🔥  
+🎯 **SPIRE n’ Friends** *(MERN Stack, GraphQL, MongoDB)*  
+🔹 Designed **interactive course discovery interfaces** using MERN stack.  
+🔹 Built **GraphQL APIs** for real-time updates and peer recommendations.  
+
+🎯 **ModelEval: Assessing Language Models for Code Generation** *(LLMs, LoRA, Hugging Face)*  
+🔹 Fine-tuned **Gemma & SWE Llama models**, achieving a **78% BLEU score** on SQL queries.  
+🔹 Used **bitsandbytes, Unsloth, and AdamW 8-bit** for **optimized inference & memory handling**.  
+
+🎯 **Real-time Blockchain Price Prediction** *(PySpark, Kafka, MLlib)*  
+🔹 Built a **real-time crypto prediction pipeline** with **Apache Kafka & MLlib**.  
+🔹 Achieved **1.87% MAPE** in price forecasting using **Linear Regression**.  
+
+---
+
+### 📊 **GitHub Stats & Streaks** 🔥  
 <p align="center">
-  <a href="https://www.linkedin.com/in/salonik/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/salonik" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:skhatu@umass.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SaloniKhatu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaloniKhatu&theme=radical" />
+</p>
+
+<p align="center">
+  <img src=
