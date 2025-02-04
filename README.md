@@ -3,7 +3,12 @@
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="600"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Saloni Khatu</h1>
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffb3, #0091ff, #6200ff, #ff00b3);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Hi ![wave](https://em-content.zobj.net/source/microsoft/337/waving-hand_1f44b.png), I'm Saloni Khatu
+  </span>
+</h1>
 <h3 align="center">🚀 Data Science, ML and LLMs Enthusiast | Software Engineer | Data Scientist 🚀</h3>
 
 <p align="center">
